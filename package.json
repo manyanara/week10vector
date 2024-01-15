@@ -1,0 +1,20 @@
+{
+  "name": "week10vector",
+  "version": "1.0.0",
+  "description": "generates an svg using CLI prompts to collect user input",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
