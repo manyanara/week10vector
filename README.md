@@ -1,4 +1,5 @@
 # week10vector
+link to video showing usage:
 https://drive.google.com/file/d/1aAMtjpd2_zxerzAMnG8twa-UVV63fJJP/
 
 # Week 09 Vector
